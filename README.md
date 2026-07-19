@@ -10,8 +10,14 @@ Most of my work lives in a portfolio built around Plait, a fictional self-serve 
 
 **[plait-external-intent](https://github.com/IfeomaOrika/plait-external-intent)** answers the objection the first project raises. It pulls dated job posts from Hacker News, reads a company's analytics stack out of its Google Tag Manager container, checks its public GitHub activity, and ranks accounts on all three.
 
-Everything I publish names its own limits. A pipeline that hides what it can't measure isn't worth trusting, and the flags that say "I couldn't check this" matter as much as the scores.
+Every project documents what it can't measure, not just what it can. When the pipeline couldn't check something, the output says so.
 
-Free-tier tools only, by design. PostHog, HubSpot, n8n, Python, DuckDB and dbt-core next.
+I work with free-tier tools only, by design:
+
+PostHog
+HubSpot
+n8n
+Python
+DuckDB and dbt-core 
 
 Reach me at ifeomafayeorika@gmail.com or on [LinkedIn](https://www.linkedin.com/in/ifeomafayeorika/).
