@@ -1,28 +1,17 @@
-Hi guys! Ifeoma Orika here. 
+**Hiii, I'm Ifeoma.**
 
-I am an aspiring web3 developer. I am currently taking London App Brewery's course on Full-stack web development. 
+I build the systems that sit between product usage and revenue: capturing behavior, enriching it, scoring accounts, and routing them to whoever should act on them.
 
-I am really passionate about the whole ideas and ideals web3 advocates. This is my reason for deciding to learn the technologies that power web3. 
+Most of my work lives in a portfolio built around Plait, a fictional self-serve analytics product. Plait is invented so I can publish the systems openly. But what runs through them is not.
 
-I believe that with consistency and putting in the work I will get to the place I aspire to be. 
-I do project-based learning. I learn a concept in JavaScript and Solidity and I do a project on that concept to improve my skills.
+**[what-sales-sees](https://github.com/IfeomaOrika/what-sales-sees)** captures product usage in PostHog, enriches it in Python, and scores and routes accounts in HubSpot. The data is synthetic, and I say so in the README. The goal of the project is to prove taxonomy design, enrichment and routing.
 
-All my projects are contained in my GitHub repository. 
+**[plait-deal-execution](https://github.com/IfeomaOrika/plait-deal-execution)** is the deal desk layer. Three-tier discount approval, n8n orchestration, PDF quote generation. It documents the single-cutoff alternative I rejected and why.
 
-I also write little notes on 
-* what my project was all about, 
-* my process, 
-* my live site, 
-* my stack for the project, 
-* what I learned, 
-* what I realized I need to improve on, 
-* continued development 
-* and useful resource
+**[plait-external-intent](https://github.com/IfeomaOrika/plait-external-intent)** answers the objection the first project raises. It pulls dated job posts from Hacker News, reads a company's analytics stack out of its Google Tag Manager container, checks its public GitHub activity, and ranks accounts on all three.
 
+Everything I publish names its own limits. A pipeline that hides what it can't measure isn't worth trusting, and the flags that say "I couldn't check this" matter as much as the scores.
 
-You can reach me via
-* ifeomafayeorika@gmail.com
-* Twitter: @ify_orika
- 
+Free-tier tools only, by design. PostHog, HubSpot, n8n, Python, DuckDB and dbt-core next.
 
-
+Reach me at ifeomafayeorika@gmail.com or on [LinkedIn](https://www.linkedin.com/in/ifeomafayeorika/).
